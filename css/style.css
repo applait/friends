@@ -40,7 +40,8 @@ body {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
-  align-items: top;
+  align-items: flex-start;
+  min-height: 95vh;
 }
 
 .item {
@@ -81,4 +82,17 @@ body {
 .social-links span {
   margin-left: 0.25rem;
   margin-right: 0.25rem;
+}
+
+#footer {
+  text-align: center;
+  font-size: 0.75rem;
+  background-color: #f1f1f1;
+  color: #333;
+  padding: 0.25rem 0;
+}
+
+#footer a {
+  color: #333;
+  text-decoration: none;
 }
