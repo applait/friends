@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Kaustav Das Modak",
+        "email": "kaustav@codebinders.com",
+        "twitter": "kaustavdm",
+        "github": "kaustavdm",
+        "contributions": ["code", "documentation", "marketing"]
+    },
+    {
+        "name": "Soumya Deb",
+        "email": "debloper@gmail.com",
+        "twitter": "debloper",
+        "github": "debloper",
+        "contributions": ["code", "graphics", "marketing"]
+    },
+    {
+        "name": "Nayanika Chattopadhyay",
+        "email": "pawzoned@gmail.com",
+        "twitter": "pawzoned",
+        "github": "pawzoned",
+        "contributions": ["graphics", "marketing"]
+    },
+    {
+        "name": "Moumita Banerjee",
+        "email": "moumita@applait.com",
+        "twitter": false,
+        "github": false,
+        "contributions": ["legal"]
+    },
+    {
+        "name": "Jaipradeesh J",
+        "email": "jaipradeesh@gmail.com",
+        "twitter": "dolftax",
+        "github": "dolftax",
+        "contributions": ["code"]
+    }
+]
