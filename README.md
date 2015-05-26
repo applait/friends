@@ -12,7 +12,6 @@ Add a name to the `friends.json` file. The structure looks like:
 {
   "name": "Ananda Sen",
   "email": "ananda.sen@example.com",
-  "facebook": "anandasen", // Facebook ID
   "twitter": "anandasen", // Twitter ID
   "github": "anandasen", // Github ID
   "contributions": ["code", "graphics", "documentation"] // Array of areas of contribution
