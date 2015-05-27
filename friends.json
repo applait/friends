@@ -43,7 +43,7 @@
     },
     {
         "name": "Sarvistha Yadav",
-        "email": "sarvistha_s@nid.edu",
+        "email": "sarvistha191993@gmail.com",
         "twitter": false,
         "github": "Sarvistha",
         "contributions": ["design"]
@@ -61,5 +61,12 @@
         "twitter": "sumantro93",
         "github": "sumantro93",
         "contributions": ["security"]
+    },
+    {
+        "name": "Akshay Tiwari",
+        "email": "akshaytiwari.003@gmail.com",
+        "twitter": "Imnotakshay",
+        "github": "AkshayTiwari",
+        "contributions": ["testing/qa", "marketing"]
     }
 ]
