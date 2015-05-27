@@ -54,5 +54,12 @@
         "twitter": false,
         "github": "Bhanvee",
         "contributions": ["design"]
+    },
+    {
+        "name": "Sumantro Mukherjee",
+        "email": "saggy.zone@gmail.com",
+        "twitter": "sumantro93",
+        "github": "sumantro93",
+        "contributions": ["security"]
     }
 ]
