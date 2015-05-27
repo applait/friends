@@ -5,8 +5,8 @@ body {
   background-color: #f1f1f1;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Alegreya Sans", "Helvetia Neue", "Liberation Sans", "Georgia", "Helvetica", sans;
+h1, h2, h3, h4, h5, h6, #description {
+  font-family: "Exo", "Helvetica Neue", "Liberation Sans", "Georgia", "Helvetica", sans;
 }
 
 #header {
