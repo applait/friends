@@ -40,5 +40,19 @@
         "twitter": "_rishavraj",
         "github": "kumarrishav",
         "contributions": ["code"]
+    },
+    {
+        "name": "Sarvistha Yadav",
+        "email": "sarvistha_s@nid.edu",
+        "twitter": false,
+        "github": "Sarvistha",
+        "contributions": ["design"]
+    },
+    {
+        "name": "Bhanvee Gupta",
+        "email": "bhanvee_g@nid.edu",
+        "twitter": false,
+        "github": "Bhanvee",
+        "contributions": ["design"]
     }
 ]
