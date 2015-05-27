@@ -1,7 +1,12 @@
 body {
-  font-family: "Helvetia Neue", "Liberation Sans", "Georgia", "Helvetica", sans;
+  font-family: "Alegreya Sans", "Helvetia Neue", "Liberation Sans", "Georgia", "Helvetica", sans;
   font-size: 16px;
   color: #000;
+  background-color: #f1f1f1;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Alegreya Sans", "Helvetia Neue", "Liberation Sans", "Georgia", "Helvetica", sans;
 }
 
 #header {
@@ -24,7 +29,7 @@ body {
   color: #333;
   text-align: center;
   flex-grow: 1;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   line-height: 2rem;
 }
 
@@ -33,9 +38,11 @@ body {
   margin: 0;
   text-align: center;
   background-color: #f3f3f3;
+  font-size: 1.2rem;
 }
 
 #friends {
+  background-color: #fff;
   padding: 0.5rem;
   display: flex;
   flex-flow: row wrap;
