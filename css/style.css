@@ -3,6 +3,7 @@ body {
   font-size: 16px;
   color: #000;
   background-color: #f1f1f1;
+  min-width: 240px;
 }
 
 h1, h2, h3, h4, h5, h6, #description {
@@ -104,4 +105,10 @@ h1, h2, h3, h4, h5, h6, #description {
 #footer a {
   color: #333;
   text-decoration: none;
+}
+
+@media all and (max-width: 510px) {
+  #friends {
+    justify-content: center;
+  }
 }
