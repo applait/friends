@@ -68,5 +68,12 @@
         "twitter": "Imnotakshay",
         "github": "AkshayTiwari",
         "contributions": ["testing/qa", "marketing"]
+    },
+    {
+        "name": "Swarnava Sengupta",
+        "email": "swarnavasengupta@gmail.com",
+        "twitter": "sw4rn4v4",
+        "github": "swarnava",
+        "contributions": ["testing/qa", "marketing"]
     }
 ]
